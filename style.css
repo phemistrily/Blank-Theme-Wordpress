@@ -1,0 +1,20 @@
+/*
+Theme Name: Blank Template by Phemistrily
+Theme URI: https://github.com/phemistrily
+Description: Blank Theme
+Author: Phemistrily
+Author URI: https://github.com/phemistrily
+Version: 0.1
+License: BSD 2-Clause
+License URI: http://opensource.org/licenses/bsd-license.php
+*/
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	margin: 0px;
+	padding: 0px;
+}
+
